@@ -1,7 +1,6 @@
 ## **<div align="center"><p>:wave: Hi, I'm Oğuzhan Bahadır Bayram</p> </div>**
 ### <div align="center"><p>Electrical-Electronics Engineer | Java & Software Testing Student. </p> </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-oguzhanbbtest)
 
 <div align="center"><img src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif"/>
 
