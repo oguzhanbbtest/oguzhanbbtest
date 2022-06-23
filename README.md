@@ -28,6 +28,12 @@
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanbbtest&show_icons=true&theme=radical)
 
 </details>
+  <details><summary>Favorite Project</summary>
+    
+[BoxingGame](https://github.com/oguzhanbbtest/BoxingGame)    
+[OgrenciBilgiSistemi](https://github.com/oguzhanbbtest/OgrenciBilgiSistemi)    
+[MaasHesaplayici](https://github.com/oguzhanbbtest/MaasHesaplayici)
+  </details>
 
 <details> 
 <summary>Most Used Language</summary>
