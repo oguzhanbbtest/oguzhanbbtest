@@ -30,6 +30,7 @@
 </details>
   <details><summary>Favorite Project</summary>
     
+[GelismisHesapMakinesi](https://github.com/oguzhanbbtest/GelismisHesapMakinesi)    
 [BoxingGame](https://github.com/oguzhanbbtest/BoxingGame)    
 [OgrenciBilgiSistemi](https://github.com/oguzhanbbtest/OgrenciBilgiSistemi)    
 [MaasHesaplayici](https://github.com/oguzhanbbtest/MaasHesaplayici)
