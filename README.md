@@ -29,12 +29,16 @@
 
 </details>
   <details><summary>Favorite Project</summary>
-    
-[GelismisHesapMakinesi](https://github.com/oguzhanbbtest/GelismisHesapMakinesi)    
+
+[ATM project](https://github.com/oguzhanbbtest/ATMproje)
+
+[GelismisHesapMakinesi](https://github.com/oguzhanbbtest/GelismisHesapMakinesi)
+
 [BoxingGame](https://github.com/oguzhanbbtest/BoxingGame)    
+
 [OgrenciBilgiSistemi](https://github.com/oguzhanbbtest/OgrenciBilgiSistemi)    
+
 [MaasHesaplayici](https://github.com/oguzhanbbtest/MaasHesaplayici)
-[ATM](https://github.com/oguzhanbbtest/ATMproje)
     
   </details>
 
