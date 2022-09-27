@@ -39,6 +39,3 @@
 <details><summary align="center">Streak Stats</summary>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanbbtest&" alt="oguzhanbbtest" /></p>
 </details>
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oguzhanbbtest.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
