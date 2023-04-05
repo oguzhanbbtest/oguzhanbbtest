@@ -6,9 +6,9 @@
 
 
 
-<h4 align="center">  🌱 I’m currently learning Java, Selenium and other Test frameworks </h4>
+<h4 align="center">  🌱 I’m currently working Java, Selenium and other Test frameworks </h4>
 
-<h4 align="center"> 💬 Ask me about Software Test </h4>
+<h4 align="center"> 💬 Ask me about Software Quality Assurance </h4>
 
 <h4 align="center"> 📫 How to reach me oguzhanbbtest@gmail.com </h4>
 
