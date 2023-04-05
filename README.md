@@ -10,7 +10,7 @@
 
 <h4 align="center"> 💬 Ask me about Software Quality Assurance </h4>
 
-<h4 align="center"> 📫 How to reach me oguzhanbbtest@gmail.com </h4>
+<h4 align="center"> 📫 How to reach me oguzhanbbtest@gmail.com, oguzhan.bayram@icrypex.com, oguzhanbahadir.bayram@testinium.com</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
